@@ -1,0 +1,6 @@
+git init
+git add
+git commit -m "admin"
+git status
+git remote add origin https://github.com/dhianiwidiya/E-commerce/admin
+git push -u origin master
